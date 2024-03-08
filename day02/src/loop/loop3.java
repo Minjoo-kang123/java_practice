@@ -16,7 +16,9 @@ public class loop3 {
             }
             switch (cmd){
                 case "c" : System.out.println("Create"); break;
-                case "r" : System.out.println("Read");
+                case "r" : System.out.println("Read")
+                // hello
+                ;
                 case "u" : System.out.println("Update"); break;
                 case "d" : System.out.println("Delete"); break;
                 default: System.out.println("Try again");
